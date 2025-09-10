@@ -1,7 +1,5 @@
 # SaberSoft: Plataforma de Estudos para Engenharia de Software 📚
 
----
-
 ### Visão do Produto ✨
 
 O **SaberSoft** é uma ferramenta educacional interativa, projetada para auxiliar estudantes de **Engenharia de Software** a aprofundar seus conhecimentos e se prepararem para avaliações. Através de um acervo organizado de questões e materiais de estudo, a plataforma permitirá que os usuários naveguem por diferentes matérias, busquem conteúdos específicos e testem seus conhecimentos.
