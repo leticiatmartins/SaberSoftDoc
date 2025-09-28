@@ -2,4 +2,6 @@
 - [Histórias de Usuário](/historias-de-usuario)
 - [Diagrama UMl](diagrama-uml)
 - [Backlog](backlog)
+- [Tecnologias usadas](tecnologias)
 - [Protótipo](prototipo)
+- [Checklist Entrega 1](checklist-da-Entrega-1.md)
