@@ -4,7 +4,7 @@ Esta seção apresenta o diagrama de classes UML do sistema SaberSoft, que ilust
 
 Ele representa visualmente como os diferentes componentes do SaberSoft interagem e são organizados, desde os perfis de usuário (Aluno, Administrador) até as entidades de conteúdo (Questões, Matérias, etc.).
 
----
+
 
 ## Representação Visual do Diagrama
 
