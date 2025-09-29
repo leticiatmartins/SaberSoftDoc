@@ -11,7 +11,7 @@ O objetivo é ilustrar a experiência do usuário (UX) e o design da interface (
 Abaixo, você pode ver as principais telas do protótipo que criamos para o projeto SaberSoft.
 
 ### Tela de Inicio
-![Tela de Inicio](../assets/tela-inicio.png)
+<img src="/SaberSoftDoc/assets/tela-acesso.png">
 
 ### Tela de Acesso e Autenticação
 
