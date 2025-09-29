@@ -13,5 +13,5 @@ Abaixo, você encontrará a imagem do diagrama UML.
 <div align="center">
   <p>Figura 1 – Diagrama de Classes do Sistema SaberSoft</p>
   
-  <img src="/assets/diagramaUmlTPPE.png" alt="Diagrama UML Principal" width="800"/>
+  <img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/diagramaUmlTPPE.png?raw=true" alt="Diagrama UML Principal" width="800"/>
 </div>
