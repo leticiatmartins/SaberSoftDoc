@@ -10,4 +10,4 @@ Ele representa visualmente como os diferentes componentes do SaberSoft interagem
 
 Abaixo, você encontrará a imagem do diagrama UML.
 
-<img src="/assets/diagramaUmlTPPE.png">
+<img src="/SaberSoftDoc/assets/diagramaUmlTPPE.png">
