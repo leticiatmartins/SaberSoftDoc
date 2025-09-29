@@ -11,40 +11,42 @@ O objetivo é ilustrar a experiência do usuário (UX) e o design da interface (
 Abaixo, você pode ver as principais telas do protótipo que criamos para o projeto SaberSoft.
 
 ### Tela de Inicio
-<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-acesso.png?raw=true">
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-inicio.png?raw=true">
 
 ### Tela de Acesso e Autenticação
 
-![Tela de Acesso e Autenticação do SaberSoft](../assets/tela-acesso.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-acesso.png?raw=true">
 
 ### Dashboard do Aluno
 
-![Dashboard do Aluno com progresso e matérias](../assets/tela-aluno.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-aluno.png?raw=true">
 
 ### Página de Questões e Filtros dos Alunos
 
-![Página de questões e filtros de busca](../assets/tela-questoes-aluno.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-questoes-aluno.png?raw=true">
 
 ### Página de Conteúdos dos Alunos
 
-![Página de conteúdos](../assets/tela-conteudo-aluno.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-conteudo-aluno.png?raw=true">
 
 ### Página de Matérias dos Alunos
 
-![Página de matérias](../assets/tela-materia-aluno.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-materia-aluno.png?raw=true">
 
 ### Dashboard Administrativo
 
-![Dashboard administrativo com métricas do sistema](../assets/tela-adm.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-adm.png?raw=true">
 
 ### Matéria Administrativo
 
-![Matéria administrativo com métricas do sistema](../assets/tela-adm-materia.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-adm-materia.png?raw=true">
 
 ### Conteúdo Administrativo
 
-![Conteúdo administrativo com métricas do sistema](../assets/tela-adm-conteudo.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-adm-conteudo.png?raw=true">
 
 ### Questões Administrativo
 
-![Questões administrativo com métricas do sistema](../assets/tela-adm-questao.png)
+<img src="https://github.com/leticiatmartins/SaberSoftDoc/blob/main/assets/tela-adm-questao.png?raw=true">
+
+[Link para o prototipo](https://v0.app/chat/saber-soft-platform-design-rI3G6WcAhxj?b=v0-preview-b_QVhqfg53pN1&f=1&path=%2F)
