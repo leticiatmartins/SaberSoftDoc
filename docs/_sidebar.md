@@ -1,6 +1,6 @@
 - [Página Inicial](/)
 - [Histórias de Usuário](/historias-de-usuario)
-- [Diagrama UMl](diagrama-uml)
+- [Diagrama UML](diagrama-uml)
 - [Backlog](backlog)
 - [Tecnologias usadas](tecnologias)
 - [Protótipo](prototipo)
