@@ -44,6 +44,6 @@ A escolha das tecnologias foca em alta performance para o backend e integridade 
 
 O diagrama UML anexado `Diagrama de Classes.md` representa o design estrutural da Camada de Lógica de Negócios.
 
-### a) Diagrama de Classes
+###  Diagrama de Classes
 * **Herança (Polimorfismo):** A superclasse **`Questão`** modela o comportamento comum, enquanto as subclasses (ex: `QuestaoDiscursiva`) herdam e implementam a lógica específica (ex: correção manual).
 * **Cardinalidade:** O uso de `1..*` (Um para Muitos) nos relacionamentos (ex: `Matéria` contém `1..* Conteúdo`) define as regras de integridade do sistema.
